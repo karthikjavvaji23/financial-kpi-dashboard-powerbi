@@ -1,43 +1,61 @@
-Financial KPI Performance Dashboard (Power BI)
+# 📊 **Financial KPI Performance Dashboard (Power BI)**
 
-This project presents a Financial KPI dashboard designed to help organizations better understand their financial performance, identify revenue and profit drivers, and support data-informed strategic decision-making. Through interactive visualizations and a clear, structured layout, the dashboard allows stakeholders to examine trends in sales, profitability, and operational effectiveness across regions, product groups, and customer segments.
+A professional Power BI dashboard that analyzes key financial metrics to help organizations understand revenue, profitability, and operational performance. This project demonstrates strong BI development skills through effective data modeling, clean UI design, and actionable financial insights.
 
-The dashboard focuses on answering core analytical questions, including how financial performance evolves over time, which segments and markets contribute most to overall profitability, and how factors such as product mix and discount patterns influence organizational outcomes. By presenting these insights in a visual and intuitive manner, the dashboard demonstrates the value of modern business intelligence tools in enabling clear communication, strategic alignment, and data-driven evaluation of business performance.
+## 🎯 **Project Overview**
 
-🔍 Key Features
+This dashboard enables business stakeholders to explore financial KPIs such as sales, profit, COGS, gross margin %, and discount impact. Through interactive visuals and a structured, dark-themed layout, users can quickly identify trends, compare segments, and evaluate performance across regions, products, and customer groups.
 
-Sales & Profit KPI cards
+The solution highlights how modern BI tools can support data-driven decision-making by transforming raw financial data into meaningful insights.
 
-Monthly sales trend analysis
 
-Segment-level revenue performance
+## 🔍 **Key Features**
 
-Country-level profit overview
+* **Sales & Profit KPI Cards** – High-level view of total sales, profit, COGS, and margin
+* **Monthly Sales Trend** – Visualizes revenue movement over time
+* **Segment-Level Revenue** – Identifies which business segments drive performance
+* **Country Profit Comparison** – Highlights market-level profitability differences
+* **Discount Analysis** – Shows how discounts impact revenue and margin
+* **Product Performance Table** – Detailed profit, sales, and margin breakdown
+* **Interactive Filters** – Year, segment, product, and country slicers
+* **Custom Dark Theme** – Clean and modern UI for improved readability
 
-Discount impact visualization
+## 🧰 **Tools & Technologies Used**
 
-Product performance table
+* **Power BI Desktop**
+* **Power Query** for ETL
+* **DAX** for calculated measures
+* **Data Modeling (Star Schema)**
+* **Custom JSON Theme** for UI
+* **Data Visualization Best Practices**
 
-Clean dark-themed UI for clarity and emphasis
+## 📈 **Business Questions Answered**
 
-Interactive filtering (year, segment, country, product)
+* How are sales and profitability trending month over month?
+* Which segments and products contribute the most to overall revenue?
+* What are the most profitable countries or markets?
+* How do discounts influence performance?
+* Which product categories need attention based on profit or margin trends?
 
-🧰 Tools Used
 
-Power BI
+## 📂 **Files Included**
 
-Power Query
-
-DAX
-
-Data Modeling
-
-Custom JSON Theme
-
-📂 Files Included
-
+```
 Financial_KPI_Dashboard.pbix
+assets/
+   ├── screenshots/
+   └── screen_recording.mp4
+README.md
+```
 
-/assets/ folder with screenshots and recordings
+## 🏁 **Outcome**
 
-README.md (this file)
+This dashboard showcases strong capabilities in:
+
+* Financial analytics
+* BI storytelling
+* KPI design and interpretation
+* Data modeling & DAX
+* UI/UX dashboard development
+
+It serves as a practical example of how business intelligence tools can improve transparency, efficiency, and decision-making across an organization.
