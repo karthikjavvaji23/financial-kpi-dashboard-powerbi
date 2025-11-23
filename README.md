@@ -1,6 +1,7 @@
 # 📊 **Financial KPI Performance Dashboard (Power BI)**
 
 A professional Power BI dashboard that analyzes key financial metrics to help organizations understand revenue, profitability, and operational performance. This project demonstrates strong BI development skills through effective data modeling, clean UI design, and actionable financial insights.
+<img width="1424" height="798" alt="Screenshot 2025-11-23 122136" src="https://github.com/user-attachments/assets/1e7749be-9288-4b0b-9795-a3d77c6d8d11" />
 
 ## 🎯 **Project Overview**
 
